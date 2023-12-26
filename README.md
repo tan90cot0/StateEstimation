@@ -4,9 +4,8 @@ This project is about state estimation using kalman filters, EKF, Landmark Local
 ## Directory Structure
 1. Questions.pdf - Contains the questions related to Kalman Filters, EKF and Data Association Problems.
 2. Report.pdf - Contains the relevant answers and analysis.
-3. plots - Contains the plots generated to analyse different state estimation techniques, as mentioned in Report.pdf
-4. main.py - Contains the code to run the project.
-5. requirements.txt - The file which contains the library/module requirements for the project.
+3. main.py - Contains the code to run the project.
+4. requirements.txt - The file which contains the library/module requirements for the project.
 
 ## How to Run?
 1. Change directory to the current directory and run pip install -r requirements.txt
